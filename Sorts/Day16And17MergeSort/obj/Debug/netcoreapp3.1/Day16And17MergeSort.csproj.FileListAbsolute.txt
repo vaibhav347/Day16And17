@@ -1,0 +1,13 @@
+C:\Day16And17\Day16And17MergeSort\obj\Debug\netcoreapp3.1\Day16And17MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day16And17\Day16And17MergeSort\obj\Debug\netcoreapp3.1\Day16And17MergeSort.AssemblyInfoInputs.cache
+C:\Day16And17\Day16And17MergeSort\obj\Debug\netcoreapp3.1\Day16And17MergeSort.AssemblyInfo.cs
+C:\Day16And17\Day16And17MergeSort\obj\Debug\netcoreapp3.1\Day16And17MergeSort.csproj.CoreCompileInputs.cache
+C:\Day16And17\Day16And17MergeSort\bin\Debug\netcoreapp3.1\Day16And17MergeSort.exe
+C:\Day16And17\Day16And17MergeSort\bin\Debug\netcoreapp3.1\Day16And17MergeSort.deps.json
+C:\Day16And17\Day16And17MergeSort\bin\Debug\netcoreapp3.1\Day16And17MergeSort.runtimeconfig.json
+C:\Day16And17\Day16And17MergeSort\bin\Debug\netcoreapp3.1\Day16And17MergeSort.runtimeconfig.dev.json
+C:\Day16And17\Day16And17MergeSort\bin\Debug\netcoreapp3.1\Day16And17MergeSort.dll
+C:\Day16And17\Day16And17MergeSort\bin\Debug\netcoreapp3.1\Day16And17MergeSort.pdb
+C:\Day16And17\Day16And17MergeSort\obj\Debug\netcoreapp3.1\Day16And17MergeSort.dll
+C:\Day16And17\Day16And17MergeSort\obj\Debug\netcoreapp3.1\Day16And17MergeSort.pdb
+C:\Day16And17\Day16And17MergeSort\obj\Debug\netcoreapp3.1\Day16And17MergeSort.genruntimeconfig.cache
