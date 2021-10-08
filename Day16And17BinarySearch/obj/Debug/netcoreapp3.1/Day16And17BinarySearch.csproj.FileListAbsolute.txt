@@ -1,0 +1,14 @@
+C:\Day16And17\Day16And17BinarySearch\bin\Debug\netcoreapp3.1\Day16And17BinarySearch.exe
+C:\Day16And17\Day16And17BinarySearch\bin\Debug\netcoreapp3.1\Day16And17BinarySearch.deps.json
+C:\Day16And17\Day16And17BinarySearch\bin\Debug\netcoreapp3.1\Day16And17BinarySearch.runtimeconfig.json
+C:\Day16And17\Day16And17BinarySearch\bin\Debug\netcoreapp3.1\Day16And17BinarySearch.runtimeconfig.dev.json
+C:\Day16And17\Day16And17BinarySearch\bin\Debug\netcoreapp3.1\Day16And17BinarySearch.dll
+C:\Day16And17\Day16And17BinarySearch\bin\Debug\netcoreapp3.1\Day16And17BinarySearch.pdb
+C:\Day16And17\Day16And17BinarySearch\obj\Debug\netcoreapp3.1\Day16And17BinarySearch.csproj.AssemblyReference.cache
+C:\Day16And17\Day16And17BinarySearch\obj\Debug\netcoreapp3.1\Day16And17BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day16And17\Day16And17BinarySearch\obj\Debug\netcoreapp3.1\Day16And17BinarySearch.AssemblyInfoInputs.cache
+C:\Day16And17\Day16And17BinarySearch\obj\Debug\netcoreapp3.1\Day16And17BinarySearch.AssemblyInfo.cs
+C:\Day16And17\Day16And17BinarySearch\obj\Debug\netcoreapp3.1\Day16And17BinarySearch.csproj.CoreCompileInputs.cache
+C:\Day16And17\Day16And17BinarySearch\obj\Debug\netcoreapp3.1\Day16And17BinarySearch.dll
+C:\Day16And17\Day16And17BinarySearch\obj\Debug\netcoreapp3.1\Day16And17BinarySearch.pdb
+C:\Day16And17\Day16And17BinarySearch\obj\Debug\netcoreapp3.1\Day16And17BinarySearch.genruntimeconfig.cache
