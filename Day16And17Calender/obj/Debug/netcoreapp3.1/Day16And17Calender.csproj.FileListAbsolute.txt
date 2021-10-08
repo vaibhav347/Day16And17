@@ -1,0 +1,14 @@
+C:\Day16And17\Day16And17Calender\bin\Debug\netcoreapp3.1\Day16And17Calender.exe
+C:\Day16And17\Day16And17Calender\bin\Debug\netcoreapp3.1\Day16And17Calender.deps.json
+C:\Day16And17\Day16And17Calender\bin\Debug\netcoreapp3.1\Day16And17Calender.runtimeconfig.json
+C:\Day16And17\Day16And17Calender\bin\Debug\netcoreapp3.1\Day16And17Calender.runtimeconfig.dev.json
+C:\Day16And17\Day16And17Calender\bin\Debug\netcoreapp3.1\Day16And17Calender.dll
+C:\Day16And17\Day16And17Calender\bin\Debug\netcoreapp3.1\Day16And17Calender.pdb
+C:\Day16And17\Day16And17Calender\obj\Debug\netcoreapp3.1\Day16And17Calender.csproj.AssemblyReference.cache
+C:\Day16And17\Day16And17Calender\obj\Debug\netcoreapp3.1\Day16And17Calender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day16And17\Day16And17Calender\obj\Debug\netcoreapp3.1\Day16And17Calender.AssemblyInfoInputs.cache
+C:\Day16And17\Day16And17Calender\obj\Debug\netcoreapp3.1\Day16And17Calender.AssemblyInfo.cs
+C:\Day16And17\Day16And17Calender\obj\Debug\netcoreapp3.1\Day16And17Calender.csproj.CoreCompileInputs.cache
+C:\Day16And17\Day16And17Calender\obj\Debug\netcoreapp3.1\Day16And17Calender.dll
+C:\Day16And17\Day16And17Calender\obj\Debug\netcoreapp3.1\Day16And17Calender.pdb
+C:\Day16And17\Day16And17Calender\obj\Debug\netcoreapp3.1\Day16And17Calender.genruntimeconfig.cache
