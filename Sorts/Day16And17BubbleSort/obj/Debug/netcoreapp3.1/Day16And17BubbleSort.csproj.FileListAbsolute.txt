@@ -1,0 +1,14 @@
+C:\Day16And17\Day16And17BubbleSort\bin\Debug\netcoreapp3.1\Day16And17BubbleSort.exe
+C:\Day16And17\Day16And17BubbleSort\bin\Debug\netcoreapp3.1\Day16And17BubbleSort.deps.json
+C:\Day16And17\Day16And17BubbleSort\bin\Debug\netcoreapp3.1\Day16And17BubbleSort.runtimeconfig.json
+C:\Day16And17\Day16And17BubbleSort\bin\Debug\netcoreapp3.1\Day16And17BubbleSort.runtimeconfig.dev.json
+C:\Day16And17\Day16And17BubbleSort\bin\Debug\netcoreapp3.1\Day16And17BubbleSort.dll
+C:\Day16And17\Day16And17BubbleSort\bin\Debug\netcoreapp3.1\Day16And17BubbleSort.pdb
+C:\Day16And17\Day16And17BubbleSort\obj\Debug\netcoreapp3.1\Day16And17BubbleSort.csproj.AssemblyReference.cache
+C:\Day16And17\Day16And17BubbleSort\obj\Debug\netcoreapp3.1\Day16And17BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day16And17\Day16And17BubbleSort\obj\Debug\netcoreapp3.1\Day16And17BubbleSort.AssemblyInfoInputs.cache
+C:\Day16And17\Day16And17BubbleSort\obj\Debug\netcoreapp3.1\Day16And17BubbleSort.AssemblyInfo.cs
+C:\Day16And17\Day16And17BubbleSort\obj\Debug\netcoreapp3.1\Day16And17BubbleSort.csproj.CoreCompileInputs.cache
+C:\Day16And17\Day16And17BubbleSort\obj\Debug\netcoreapp3.1\Day16And17BubbleSort.dll
+C:\Day16And17\Day16And17BubbleSort\obj\Debug\netcoreapp3.1\Day16And17BubbleSort.pdb
+C:\Day16And17\Day16And17BubbleSort\obj\Debug\netcoreapp3.1\Day16And17BubbleSort.genruntimeconfig.cache
