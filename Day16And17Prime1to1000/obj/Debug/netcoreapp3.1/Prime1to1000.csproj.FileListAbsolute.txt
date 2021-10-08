@@ -1,0 +1,28 @@
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.exe
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.deps.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.runtimeconfig.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.runtimeconfig.dev.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.dll
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.pdb
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.csproj.AssemblyReference.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.AssemblyInfoInputs.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.AssemblyInfo.cs
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.csproj.CoreCompileInputs.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.dll
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.pdb
+C:\Users\3011313\OneDrive - Jabil\Desktop\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.genruntimeconfig.cache
+C:\Day16And17\Day16And17Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.exe
+C:\Day16And17\Day16And17Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.deps.json
+C:\Day16And17\Day16And17Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.runtimeconfig.json
+C:\Day16And17\Day16And17Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.runtimeconfig.dev.json
+C:\Day16And17\Day16And17Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.dll
+C:\Day16And17\Day16And17Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.pdb
+C:\Day16And17\Day16And17Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.csproj.AssemblyReference.cache
+C:\Day16And17\Day16And17Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day16And17\Day16And17Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.AssemblyInfoInputs.cache
+C:\Day16And17\Day16And17Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.AssemblyInfo.cs
+C:\Day16And17\Day16And17Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.csproj.CoreCompileInputs.cache
+C:\Day16And17\Day16And17Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.dll
+C:\Day16And17\Day16And17Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.pdb
+C:\Day16And17\Day16And17Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.genruntimeconfig.cache
