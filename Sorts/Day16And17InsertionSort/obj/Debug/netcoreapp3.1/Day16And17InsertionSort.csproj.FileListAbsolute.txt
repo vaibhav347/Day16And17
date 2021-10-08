@@ -1,0 +1,13 @@
+C:\Day16And17\Day16And17InsertionSort\bin\Debug\netcoreapp3.1\Day16And17InsertionSort.exe
+C:\Day16And17\Day16And17InsertionSort\bin\Debug\netcoreapp3.1\Day16And17InsertionSort.deps.json
+C:\Day16And17\Day16And17InsertionSort\bin\Debug\netcoreapp3.1\Day16And17InsertionSort.runtimeconfig.json
+C:\Day16And17\Day16And17InsertionSort\bin\Debug\netcoreapp3.1\Day16And17InsertionSort.runtimeconfig.dev.json
+C:\Day16And17\Day16And17InsertionSort\bin\Debug\netcoreapp3.1\Day16And17InsertionSort.dll
+C:\Day16And17\Day16And17InsertionSort\bin\Debug\netcoreapp3.1\Day16And17InsertionSort.pdb
+C:\Day16And17\Day16And17InsertionSort\obj\Debug\netcoreapp3.1\Day16And17InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day16And17\Day16And17InsertionSort\obj\Debug\netcoreapp3.1\Day16And17InsertionSort.AssemblyInfoInputs.cache
+C:\Day16And17\Day16And17InsertionSort\obj\Debug\netcoreapp3.1\Day16And17InsertionSort.AssemblyInfo.cs
+C:\Day16And17\Day16And17InsertionSort\obj\Debug\netcoreapp3.1\Day16And17InsertionSort.csproj.CoreCompileInputs.cache
+C:\Day16And17\Day16And17InsertionSort\obj\Debug\netcoreapp3.1\Day16And17InsertionSort.dll
+C:\Day16And17\Day16And17InsertionSort\obj\Debug\netcoreapp3.1\Day16And17InsertionSort.pdb
+C:\Day16And17\Day16And17InsertionSort\obj\Debug\netcoreapp3.1\Day16And17InsertionSort.genruntimeconfig.cache
